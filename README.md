@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auxxis&label=Profile%20views&color=0e75b6&style=flat" alt="auxxis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auxxis" alt="auxxis" /></a> </p>
-
 - 🌱 I’m currently learning **python**
 
 - 🤝 I’m looking for help with **finding real experience**
 
-- 💬 Ask me about **anything you're curious**
+- 🗣️ Languages I can speak [English, Spanish and French](English, Spanish and French)
+
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **auxiloplop@gmail.com**
 
