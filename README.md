@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help in **finding real experience**
 
-- 🗣️ Languages I can speak [English, Spanish and French](English, Spanish and French)
+- 🗣️ Languages I can speak [English C1, Spanish(Mother tongue) and French B2](English, Spanish and French)
 
 - 💬 Ask me about **anything**
 
