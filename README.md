@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Auxi, nice to meet ya!</h1>
 <h3 align="center">A passionate development and lingüistics student</h3>
 
-- 🌱 I’m currently learning **python**
+ 🌱 I’m currently learning **python**
 
-- 🤝 I’m looking for help in **finding real experience**
+ 🤝 I’m looking for help in **finding real experience**
 
-- 🗣️ Languages I can speak [English C1, Spanish(Mother tongue) and French B2](English, Spanish and French)
+ 🗣️ Languages I can speak [English C1, Spanish(Mother tongue) and French B2](English, Spanish and French)
 
-- 💬 Ask me about **anything**
+ 💬 Ask me about **anything**
 
-- 📫 How to reach me **auxiloplop@gmail.com**
+ 📫 How to reach me **auxiloplop@gmail.com**
 
-- ⚡ Fun fact **I was studying to be a translator...xD**
+ ⚡ Fun fact **I was studying to be a translator...xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
