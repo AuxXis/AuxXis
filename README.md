@@ -31,7 +31,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/auxxiii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/auxxiii" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auxxis&show_icons=true&locale=en&layout=compact" alt="auxxis" /></p>
+<h3 align="left">Estadistica GitHub:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=AuxXiii&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuxXiii&theme=blue-green"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auxxis&show_icons=true&locale=en" alt="auxxis" /></p>
 
