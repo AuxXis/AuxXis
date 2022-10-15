@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 🙌🏼, I'm Auxi, nice to meet ya!</h1>
-<h3 align="center">A passionate development and lingüistics student</h3>
+<h3 align="center">A passionate dev and lingüistics student</h3>
 
 <h3 align="center">__________________________________________________________________________</h3>
 
